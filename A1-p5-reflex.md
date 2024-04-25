@@ -7,30 +7,22 @@ Pregunta: Teniendo en cuenta las posibles necesidades físicas, cognitivas...que
 
 Pregunta: ¿Qué medidas adoptarías para garantizar la accesibilidad del alumnado a las tecnologías digitales (los dispositivos, la conectividad...) que pueda necesitar durante el curso y evitar así la brecha digital?
 
-Para responder a la pregunta anterior, pueden ser de interés y ayuda los siguientes recursos (ejemplos de vídeo y reflexión)
 
-Videoguías
-Accesibilidad e inclusión I
-Accesibilidad e inclusión II
+Para garantizar la accesibilidad de los contenidos digitales que genero, primero consideraría la diversidad de necesidades del alumnado, tanto físicas como cognitivas. Adoptaría medidas como utilizar fuentes de texto legibles y de tamaño adecuado, asegurándome de que haya suficiente contraste entre el texto y el fondo para facilitar la lectura. Además, proporcionaría alternativas textuales a los elementos visuales, como descripciones para imágenes y transcripciones para contenido audiovisual, para aquellos estudiantes con discapacidades visuales o auditivas. También me aseguraría en la medida de lo posible de que los recursos digitales sean compatibles con tecnologías de asistencia, como lectores de pantalla y teclados especializados.
 
-Ejemplos de reflexión:
-Desarrollo las clases en entornos mixtos para que el alumnado que no puede acudir al centro por motivos de salud, tenga la posibilidad de seguir dichas clases.
-Trabajo en un grupo junto con orientadores del centro, proponiendo nuevas soluciones tecnológicas que faciliten la accesibilidad a los contenidos del entorno virtual.
-Analizo los parámetros de accesibilidad digital de los documentos de ofimática: arquitectura de la información, integración de elementos multimedia, uso del color y contrastes, estilos, tablas, hiperenlaces, etc.
-Identifico los condicionantes de la brecha digital del alumnado del centro y, con ayuda, aplico las soluciones propuestas en el plan digital, como por ejemplo el uso de aplicaciones de software libre o de herramientas offline.
+Para garantizar la accesibilidad del alumnado a las tecnologías digitales necesarias durante el curso y evitar la brecha digital, implementaría varias medidas. Esto incluiría proporcionar dispositivos y software accesibles, así como ofrecer apoyo técnico y formación para su uso. Además, exploraría opciones de conectividad, como redes WiFi en el centro y préstamo de dispositivos para uso fuera del centro. Trabajaría en colaboración con el equipo encargado de la tecnología en elcentro y orientadores para identificar y abordar las barreras específicas que puedan enfrentar los estudiantes, asegurándome de que todos tengan igualdad de acceso a las herramientas digitales necesarias para el aprendizaje.
 
 Pregunta: En el aula has identificado alumnado con diferentes ritmos, niveles y/o intereses:
 
 - ¿Cómo personalizarías su aprendizaje teniendo en cuenta estas características? (Descríbelo con alguna medida).
 - ¿Qué herramientas digitales utilizarías para ello?
 
-Para responder a la pregunta anterior, pueden ser de interés y ayuda los siguientes recursos (ejemplos de vídeo y reflexión)
+Para personalizar el aprendizaje del alumnado para atender a los diferentes ritmos, niveles e intereses, implementaría estrategias como la diferenciación del contenido, la agrupación flexible y la retroalimentación individualizada. Por ejemplo, se podrían ofrecer actividades opcionales o extensiones para los estudiantes con mayor nivel de habilidad, mientras que proporcionaría apoyos adicionales y recursos alternativos para aquellos que necesitan un refuerzo adicional. Además, facilitaría la autonomía del estudiante al permitirles elegir entre diferentes opciones de tareas o proyectos relacionados con los temas del curso, lo que les permitiría elegir actividades mejor adaptadas a sus intereses y aprender a su propio ritmo.
 
-Videoguías
-Diferenciación y personalización
+Las herramientas que utilizaría sería Moodle. Utilizaría esta plataforma para crear diferentes grupos de trabajo según los niveles de habilidad de los estudiantes, lo que permitiría proporcionar actividades y recursos adaptados a sus necesidades individuales.
 
-Ejemplos de reflexión:
-Sé configurar la plataforma de aprendizaje para que el alumnado pueda acceder voluntariamente a información complementaria mientras realiza una tarea.
-Configuro diferentes itinerarios de aprendizaje en la plataforma del centro en función de las respuestas de cada alumno/a en las tareas.
-Utilizo las diferentes tecnologías digitales disponibles en mi centro para que el alumnado elija la opción más adecuada entre las diferentes que tienen para realizar una actividad.
-Utilizo la estrategia de aula volcada (flipped classroom), integrando contenidos y vídeos con explicaciones, para que cada alumno y alumna pueda revisar los contenidos en casa tantas veces como sea necesario y orientando individualmente las sesiones presenciales.
+Además de estas herramientas, tomaría medidas específicas como:
+
+- Realizar evaluaciones diagnósticas al inicio del curso para identificar las necesidades individuales de cada estudiante.
+- Ofrecer sesiones de tutoría individualizada para revisar el progreso de cada estudiante y proporcionar retroalimentación específica.
+- Proporcionar opciones de tareas y proyectos que permitan a los estudiantes demostrar su comprensión de los conceptos de diferentes maneras, como presentaciones, ensayos o proyectos multimedia.
